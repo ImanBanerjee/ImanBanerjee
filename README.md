@@ -1,3 +1,7 @@
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ImanBanerjee&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
 # 💫 About Me:
 17 years old boy and school student who is interested in Coding.<br>Learning Python<br>From Kolkata, India<br>Freelance Graphic Designer<br>Github Student Developer <br>Have a lot of experience in Design Filed <br>Write Technical blogs
 
@@ -11,6 +15,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=ImanBanerjee&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ImanBanerjee&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ImanBanerjee&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
