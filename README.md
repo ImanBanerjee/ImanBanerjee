@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-17 years old boy and school student who is interested in Coding.<br>Learning Python<br>From Kolkata, India<br>Freelance Graphic Designer<br>Github Student Developer <br>Have a lot of experience in Design Filed <br>Write Technical blogs
+A boy and school student who is interested in Coding.<br>Learning Python<br>From Kolkata, India<br>Freelance Graphic Designer<br>Github Student Developer <br>Have a lot of experience in Design Filed <br>Write Technical blogs
 
 
 ## 🌐 Socials:
